@@ -8,7 +8,7 @@ function Projects() {
       techStack: 'Web – HTML, CSS, PHP (CodeIgniter 4) | Mobile – Flutter | API – RESTful (PHP with CodeIgniter 4)',
       responsibilities: 'Developed both frontend and backend components, designed and implemented REST APIs, and ensured seamless data flow between the web and mobile platforms.',
       impact: 'Strengthened my understanding of system architecture, full-stack development, and real-world platform integration.',
-      githubLink: 'YOUR_GITHUB_LINK_1',
+      githubLink: 'https://github.com/Ayomide-Sam/VisitorLog.git',
     },
     {
       title: 'Student Performance Feedback System',
@@ -16,7 +16,7 @@ function Projects() {
       techStack: 'PHP (CodeIgniter 4), React, RESTful API',
       responsibilities: 'Designed and developed backend logic, built APIs to handle data transactions, and ensured a smooth integration with a React-based frontend.',
       impact: 'Reinforced my skills in backend development, API design, and effective communication between frontend and backend systems.',
-      githubLink: 'YOUR_GITHUB_LINK_2',
+      githubLink: 'https://github.com/Chrisemeka/Grade-Track.git',
     },
     {
       title: 'Personal Portfolio Website',
@@ -25,7 +25,7 @@ function Projects() {
       responsibilities: 'Defined the structure, content, and flow of the portfolio, edited and adapted code generated through AI prompts, and made design decisions to improve usability and aesthetic consistency.',
       learned: 'Developed practical skills in AI prompting, debugging, and layout customization. I also gained firsthand experience in making user-centered decisions, aiming for intuitive flow and clarity in content presentation.',
       impact: 'This project became both a learning ground and a representation of my ability to apply product-thinking principles—even as a beginner—while growing my technical skills in a self-directed way.',
-      githubLink: 'YOUR_GITHUB_LINK_3',
+      githubLink: 'https://github.com/Ayomide-Sam/Ayomide-portfolio.git',
     },
   ];
 
@@ -51,7 +51,7 @@ function Projects() {
                     w-full text-center p-4 font-semibold transition-colors duration-300
                     ${isActive
                       ? 'bg-teal-500 text-navy border-l-4 border-navy'
-                      : 'bg-navy text-white hover:text-teal-400 hover:bg-navy'}
+                      : 'bg-[#0a192f] text-white hover:text-teal-400 hover:bg-[#0a192f]'}
                   `}
                 >
                   {project.title}
@@ -80,7 +80,7 @@ function Projects() {
                           href={project.githubLink}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-teal-500 text-white font-bold py-2 px-4 rounded-md transition duration-300"
+                          className="inline-block bg-teal-500 text-white font-bold py-2 px-4 rounded-md transition duration-300 hover:bg-teal-400 hover:text-white"
                         >
                           View on GitHub
                         </a>

@@ -26,29 +26,28 @@ const AboutMe = () => {
           </p>
         </div>
 
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div className="space-y-4 text-left">
-            <h3 className="text-xl font-semibold">Core Values:</h3>
-            <div className="space-y-4">
-              <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
-                <p className="text-lg font-medium text-teal-500">Honesty</p>
-                <p className="text-gray-700">Transparency and integrity are essential to building trust in every interaction.</p>
-              </div>
-              <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
-                <p className="text-lg font-medium text-teal-500">Integrity</p>
-                <p className="text-gray-700">Doing the right thing, even when no one is watching, is at the core of my actions.</p>
-              </div>
-              <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
-                <p className="text-lg font-medium text-teal-500">Growth Mindset</p>
-                <p className="text-gray-700">I believe in the power of learning and constantly improving both personally and professionally.</p>
-              </div>
-              <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
-                <p className="text-lg font-medium text-teal-500">Resilience</p>
-                <p className="text-gray-700">I stay grounded through challenges, adapt quickly, and bounce back stronger.</p>
-              </div>
+        <div className="mt-12 text-left">
+          <h3 className="text-xl font-semibold mb-4">Core Values:</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
+              <p className="text-lg font-medium text-teal-500">Honesty</p>
+              <p className="text-gray-700">Transparency and integrity are essential to building trust in every interaction.</p>
+            </div>
+            <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
+              <p className="text-lg font-medium text-teal-500">Integrity</p>
+              <p className="text-gray-700">Doing the right thing, even when no one is watching, is at the core of my actions.</p>
+            </div>
+            <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
+              <p className="text-lg font-medium text-teal-500">Growth Mindset</p>
+              <p className="text-gray-700">I believe in the power of learning and constantly improving both personally and professionally.</p>
+            </div>
+            <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-2xl transition-all duration-300">
+              <p className="text-lg font-medium text-teal-500">Resilience</p>
+              <p className="text-gray-700">I stay grounded through challenges, adapt quickly, and bounce back stronger.</p>
             </div>
           </div>
         </div>
+
       </div>
     </section>
   );
