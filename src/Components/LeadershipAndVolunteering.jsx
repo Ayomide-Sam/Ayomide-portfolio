@@ -60,7 +60,7 @@ function LeadershipAndVolunteering() {
     return (
       <section id="leadership" className="section-offset w-full py-16 bg-teal-900/90"> {/* Ensure full width */}
           <div className="max-w-4xl mx-auto px-8 w-full"> {/* max-width and padding */}
-              <h2 className="text-3xl font-bold text-center text-white mb-12">
+              <h2 className="text-2xl sm:text-3xl font-bold text-center text-white mb-12">
                   Leadership & Volunteering
               </h2>
               <div className="space-y-10 w-full">

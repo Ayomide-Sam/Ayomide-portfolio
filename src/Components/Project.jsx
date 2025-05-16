@@ -38,7 +38,7 @@ function Projects() {
   return (
     <section id="projects" className="section-offset px-8 py-16 bg-gray-100">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-3xl font-bold text-gray-800 text-center mb-10">Projects</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 text-center mb-10">Projects</h2>
 
         <div className="space-y-6">
           {projectsData.map((project, index) => {

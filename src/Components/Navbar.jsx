@@ -31,7 +31,7 @@ const Navbar = () => {
         const visible = entries.find((entry) => entry.isIntersecting);
         if (visible) setActiveSection(visible.target.id);
       },
-      { threshold: 0.6 }
+      { threshold: [0.3, 0.6, 0.9], rootMargin: '-60px 0px 0px 0px' }
     );
 
     sections.forEach((id) => {

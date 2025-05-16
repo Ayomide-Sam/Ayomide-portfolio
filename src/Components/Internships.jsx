@@ -4,7 +4,7 @@ function Internships() {
   return (
     <section id="experience" className="section-offset px-6 py-16 bg-[#0a192f] text-white">
       <div className="max-w-5xl mx-auto">
-        <h2 className="text-3xl font-bold text-center text-white mb-12">Experience</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-center text-white mb-12">Experience</h2>
 
         <div className="relative border-l-4 border-teal-500 pl-8 space-y-12">
 

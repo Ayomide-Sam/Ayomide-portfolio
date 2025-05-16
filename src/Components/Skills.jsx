@@ -40,7 +40,7 @@ function Skills() {
   return (
     <section id="skills" className="section-offset py-12 px-4 sm:px-6 lg:px-8 bg-gray-900 text-gray-100">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-teal-400 to-blue-400 text-transparent bg-clip-text">
+        <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8 bg-gradient-to-r from-teal-400 to-blue-400 text-transparent bg-clip-text">
           My Skills & Abilities
         </h2>
 
