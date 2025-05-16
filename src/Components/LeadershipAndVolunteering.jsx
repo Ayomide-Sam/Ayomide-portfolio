@@ -9,7 +9,7 @@ const leadershipData = [
             'Led a team of 25 ushers serving a congregation of over 500 members.',
             'Reformed the department’s service culture by defining clear roles and delegating responsibilities.',
             'Focused on macro-level leadership by setting standards of operation and ensuring consistent execution.',
-            'Prioritizedsrc/Components/ member-focused decision-making and launched a training scheme to build confidence and soft skills.',
+            'Prioritized member-focused decision-making and launched a training scheme to build confidence and soft skills.',
             'Introduced a structured leadership model, reduced internal conflicts, and drafted the department’s first bylaws.',
         ],
         icon: <Users className="w-12 h-12 text-teal-200 mb-4" />,
@@ -35,7 +35,7 @@ const leadershipData = [
     {
         title: 'Deputy Head Representative – Leadership Panel (September 2023 – March 2025)',
         details: [
-            'Collaborated with 4 senior representatives and over 100 minor reps and councils.',
+            'Collaborated with 4 senior representatives and over 100 minor representatives and council members.',
             'Focused on conflict resolution, leadership recognition, and interdepartmental peacekeeping.',
             'Played an active role in decision-making regarding leadership cases, elections, and organizational disputes.',
         ],

@@ -30,7 +30,7 @@ const Education = () => {
             where I explored how technology can enhance communication between students and faculty. Throughout the program, 
             I took a combination of technical and business courses, including <strong>Software Engineering Principles</strong>, 
             <strong> C++ and Java Programming</strong>, <strong>Data Structures & Algorithms</strong>, <strong>Database Management</strong>, 
-            <strong> Principles of Accounting</strong>, <strong>Cost Accounting</strong>, and <strong>Labour Economics</strong>. 
+            <strong> Accounting</strong>, <strong>Economics</strong>, and <strong>Labour Economics</strong>. 
             This blend helped me develop a balanced academic foundation across technology and business disciplines.
           </p>
 

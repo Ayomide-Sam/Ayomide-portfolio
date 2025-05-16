@@ -27,7 +27,7 @@ const skillsData = [
       'Team Leadership & Delegation',
       'Conflict Resolution & Communication',
       'Problem Solving & Critical Thinking',
-      'Empathy & Member-Centred Decision Making',
+      'Empathy & User-Centred Decision Making',
     ],
   },
   {

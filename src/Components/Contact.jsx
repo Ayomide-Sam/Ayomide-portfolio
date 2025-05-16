@@ -110,7 +110,7 @@ function Contact() {
             <Linkedin className="w-7 h-7" />
           </a>
           <a
-            href="https://github.com/your-github"
+            href="https://github.com/Ayomide-Sam"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
