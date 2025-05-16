@@ -18,14 +18,14 @@ const Education = () => {
             B.Sc. in Computer Information Systems (2022 – 2025)
           </p>
 
-          <p className="mt-4 text-gray-700 leading-relaxed text-left sm:text-justify text-base sm:text-lg">
+          <p className="mt-4 text-gray-700 leading-relaxed text-justify text-base sm:text-lg">
             During my time at Babcock University, I pursued both academic excellence and active leadership. I took on 
             significant roles within the Dominion Chapel — serving as <strong>Head Usher</strong>, <strong>Head Chaplain</strong>, 
             and <strong>Head of the Data and Archive Department</strong> — where I coordinated teams, made time-sensitive decisions, 
             and led initiatives that improved internal operations.
           </p>
 
-          <p className="mt-4 text-gray-700 leading-relaxed text-left sm:text-justify text-base sm:text-lg">
+          <p className="mt-4 text-gray-700 leading-relaxed text-justify text-base sm:text-lg">
             My final-year project focused on the <em>design and implementation of a student performance feedback system</em>, 
             where I explored how technology can enhance communication between students and faculty. Throughout the program, 
             I took a combination of technical and business courses, including <strong>Software Engineering Principles</strong>, 
@@ -34,7 +34,7 @@ const Education = () => {
             This blend helped me develop a balanced academic foundation across technology and business disciplines.
           </p>
 
-          <p className="mt-4 text-gray-700 leading-relaxed text-left sm:text-justify text-base sm:text-lg">
+          <p className="mt-4 text-gray-700 leading-relaxed text-justify text-base sm:text-lg">
             This season of my life taught me how to work with structure, collaborate with intention, and lead in ways that are both organized
              and people-focused — values I now carry forward as I grow into my professional journey.
           </p>
